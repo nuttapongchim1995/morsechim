@@ -7,7 +7,7 @@ Greetings! I'm Morse, an avid computer science enthusiast with a passion for com
 - 🖥️ Proficient in Computer Vision
 - 💻 Expertise in Programming Languages: Python, C++, Matlab
 - 🌐 Skilled in Web Development
-- 📱 Adept in Mobile Application Development
+- 📱 Skilled in Mobile Application Development
 - ⚡️ Knowledgeable in Electronics
 
 ## Areas of Interest
