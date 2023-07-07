@@ -1,29 +1,33 @@
-# Morse - Enthusiast of Computer Science 👋
+## ✋🏼 Hello! My name is Morse.
 
-## Introduction
-Greetings! I'm Morse, an avid computer science enthusiast with a passion for computer vision, electronics, and the exciting fusion of mathematics with machine learning. Currently pursuing my master's degree in Computer Science, I delve deep into the captivating realms of visual perception, artificial intelligence, and mathematical modeling. I find great joy in bringing groundbreaking ideas to life through code.
+I am a passionate learner in the field of computer science. I have a deep interest in exploring knowledge in computer science, electronics, and the exciting fusion of mathematics with machine learning. I have successfully pursued a master's degree in computer science and I am highly intrigued by computer vision, artificial intelligence, and mathematical modeling. I am determined to inspire creativity through programming.
 
 ## Skills
-- 🖥️ Proficient in Computer Vision
-- 💻 Expertise in Programming Languages: Python, C++, Matlab
-- 🌐 Skilled in Web Development
-- 📱 Skilled in Mobile Application Development
-- ⚡️ Knowledgeable in Electronics
 
-## Areas of Interest
-- ➕ Deeply intrigued by Mathematics
+👁️ Proficient in three-dimensional image processing techniques.
+💻 Experienced in various programming languages such as Python, C++, and Matlab.
+⚡️ Knowledgeable in electronics.
+🧠 Good understanding of machine learning.
+🌟 Experienced in deep learning techniques.
+
+## Areas of Interest:
+
+➕ Mathematics
 
 ## Education
-- 🎓 Bachelor's degree in Computer Science.
-- 🎓 Master's degree in Computer Science.
 
-## Scholarly Work
-- Published a paper titled "Fresh Weight Estimation of Lettuce Using 3D Stereoscopic Technique" in the 2023 8th International Conference on Business and Industrial Research (ICBIR2023)
+🎓 Bachelor's degree in Computer Science.
+🎓 Master's degree in Computer Science.
 
-## Contact
-- 📧 Email: [morsechim@gmail.com](mailto:morsechim@gmail.com)
-- 🐦 Twitter: [@morsechim](https://twitter.com/morsechim)
+## Academic Research
 
-Feel free to reach out to me for inquiries, potential project collaborations, or simply to network. I'm always open to new opportunities and partnerships!
+I published an article titled "Fresh Weight Estimation of Lettuce Using 3D Stereoscopic Technique" at the ICBIR2023 (The 8th International Conference on Business and Industrial Research) in the year 2023.
 
-Together, let's shape the future! 🚀
+### Contact
+
+📧 Email: [morsechim@gmail.com](mailto:morsechim@gmail.com)
+🐦 Twitter: @morsechim
+
+If you have any questions, wish to collaborate on research, or simply want to build a professional relationship, please feel free to contact me. I welcome new opportunities and enjoyable collaborations!
+
+Let's learn and build the future together! 🚀
