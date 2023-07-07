@@ -4,11 +4,11 @@ I am a passionate learner in the field of computer science. I have a deep intere
 
 ## Skills
 
-👁️ Proficient in three-dimensional image processing techniques.
-💻 Experienced in various programming languages such as Python, C++, and Matlab.
-⚡️ Knowledgeable in electronics.
-🧠 Good understanding of machine learning.
-🌟 Experienced in deep learning techniques.
+👁️ Proficient in three-dimensional image processing techniques. <br>
+💻 Experienced in various programming languages such as Python, C++, and Matlab. <br>
+⚡️ Knowledgeable in electronics. <br>
+🧠 Good understanding of machine learning. <br>
+🌟 Experienced in deep learning techniques. <br>
 
 ## Areas of Interest:
 
@@ -16,8 +16,8 @@ I am a passionate learner in the field of computer science. I have a deep intere
 
 ## Education
 
-🎓 Bachelor's degree in Computer Science.
-🎓 Master's degree in Computer Science.
+🎓 Bachelor's degree in Computer Science. <br>
+🎓 Master's degree in Computer Science. <br>
 
 ## Academic Research
 
@@ -25,9 +25,9 @@ I published an article titled "Fresh Weight Estimation of Lettuce Using 3D Stere
 
 ### Contact
 
-📧 Email: [morsechim@gmail.com](mailto:morsechim@gmail.com)
-🐦 Twitter: @morsechim
+📧 Email: [morsechim@gmail.com](mailto:morsechim@gmail.com) <br>
+🐦 Twitter: @morsechim <br>
 
-If you have any questions, wish to collaborate on research, or simply want to build a professional relationship, please feel free to contact me. I welcome new opportunities and enjoyable collaborations!
+If you have any questions, wish to collaborate on research, or simply want to build a professional relationship, please feel free to contact me. I welcome new opportunities and enjoyable collaborations! <br>
 
-Let's learn and build the future together! 🚀
+Let's learn and build the future together! 🚀 <br>
