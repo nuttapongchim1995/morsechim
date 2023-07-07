@@ -21,7 +21,8 @@ I am a passionate learner in the field of computer science. I have a deep intere
 
 ## Academic Research
 
-I published an article titled "Fresh Weight Estimation of Lettuce Using 3D Stereoscopic Technique" at the ICBIR2023 (The 8th International Conference on Business and Industrial Research) in the year 2023.
+I published an article titled "<a href="https://ieeexplore.ieee.org/document/10147436">Fresh Weight Estimation of Lettuce Using 3D Stereoscopic Technique</>" at the ICBIR2023 (The 8th International Conference on Business and Industrial Research) in the year 2023. <br>
+
 
 ### Contact
 
